@@ -1,0 +1,3 @@
+[submodule "transavormer"]
+	path = transavormer
+	url = https://github.com/Yahweasel/transavormer
